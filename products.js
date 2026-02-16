@@ -1,7 +1,7 @@
 const products = [
   // Fruits (10 items — first 7 have images)
   { id: 1, name: "Banana", category: "Fruits", price: 40, image: "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGZydWl0c3xlbnwwfHwwfHx8MA%3D%3D"},
-  { id: 2, name: "Apple", category: "Fruits", price: 100, image: "https://images.unsplash.com/photo-1770932537107-d5a98aa2a702?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxN3x8fGVufDB8fHx8fA%3D%3D"},
+  { id: 2, name: "Apple", category: "Fruits", price: 100, image: "https://images.unsplash.com/photo-1576179635662-9d1983e97e1e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGFwcGxlfGVufDB8fDB8fHww"},
   { id: 3, name: "Orange", category: "Fruits", price: 60, image: "https://plus.unsplash.com/premium_photo-1671379086168-a5d018d583cf?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8ZnJ1aXRzfGVufDB8fDB8fHww"},
   { id: 4, name: "Mango", category: "Fruits", price: 120, image: "https://images.unsplash.com/photo-1618897996318-5a901fa6ca71?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGZydWl0c3xlbnwwfHwwfHx8MA%3D%3D"},
   { id: 5, name: "Grapes", category: "Fruits", price: 90, image: "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce?crop=entropy&cs=tinysrgb&fit=crop&h=200&w=200" },
@@ -49,3 +49,4 @@ const products = [
 ];
 
 export default products;
+

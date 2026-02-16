@@ -173,4 +173,28 @@ body {
   text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.6);
   text-align: center;
 }
+
+.search-bar {
+  padding: 6px;
+  border-radius: 6px;
+  border: none;
+  margin-right: 15px;
+}
+
+.quantity-control {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.quantity-control button {
+  background: green;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
   

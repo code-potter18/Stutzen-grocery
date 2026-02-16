@@ -1,0 +1,23 @@
+.navbar {
+    background-color: #16a34a;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .search-bar {
+    width: 300px;
+    padding: 8px;
+    border-radius: 6px;
+    border: none;
+  }
+  
+  .nav-buttons button {
+    margin-left: 10px;
+    padding: 6px 12px;
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+  }
+  
